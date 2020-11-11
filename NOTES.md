@@ -33,7 +33,7 @@
 4. User can Sign up
 5. User can Log in 
 6. User can Log in with Google, etc.
-7. User profile page:
+7. User profile page (which view will this be?):
     [] Add a child
     []Edit a child
     []Delete a child
